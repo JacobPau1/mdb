@@ -25,7 +25,7 @@
 
 ## 📧 Обратная связь
 Если у вас есть вопросы, предложения или обнаружены ошибки, свяжитесь с нами:
-- Website: [BeeMovie](https://beemovie.icu)
+- Website: [MDBTV](https://mdbtv.info/)
 - 📬 Email: [saint.peter.the.goat@gmail.com](mailto:saint.peter.the.goat@gmail.com)
 - 🐛 Создайте [issue](https://github.com/JacobPau1/mdb/issues) на GitHub.
 
